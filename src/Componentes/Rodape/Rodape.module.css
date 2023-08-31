@@ -1,0 +1,15 @@
+.rodape {
+  align-items: center;
+  background-color: var(--azul-escuro);
+  color: var(--branco);
+  column-gap: .5rem;
+  display: flex;
+  justify-content: center;
+  padding: 2rem 0;
+}
+@media (max-width: 744px) {
+  .rodape {
+    flex-wrap: wrap;
+    padding: 2rem 1rem ;
+  }
+}

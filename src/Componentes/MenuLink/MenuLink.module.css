@@ -1,0 +1,9 @@
+.link {
+  color: var(--cor-fonte-principal);
+  font-size: 1.25rem;
+  line-height: 1.5rem;
+}
+
+.linkDestacado {
+  text-decoration-line: underline;
+}
